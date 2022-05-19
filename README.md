@@ -1,4 +1,3 @@
-<img src="https://user-images.githubusercontent.com/66230638/153062255-a800cadd-8f77-47b4-a8cb-e3d58ff77dd6.png" width="100%">
 <div align="center">
   
   <a href="mailto:viniciusumetsu210@gmail.com">
@@ -16,7 +15,12 @@
     <img src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
   
+  <a href="https://t.me/ViniUme">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+  
 </div><br>
+<img src="https://user-images.githubusercontent.com/66230638/153062255-a800cadd-8f77-47b4-a8cb-e3d58ff77dd6.png" width="100%">
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniUme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniUme&layout=compact&langs_count=7&theme=dracula"/>
