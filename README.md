@@ -34,7 +34,7 @@
 <div>
 
 ### Technologies
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,nodejs,react,nextjs,vuejs,mui,python,flask,sass,markdown&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,nodejs,react,nextjs,mui,tailwindcss,python,flask,sass,markdown&theme=dark)](https://skills.thijs.gg)
   
 ### Databases
 [![My Skills](https://skills.thijs.gg/icons?i=mongodb,firebase&theme=dark)](https://skills.thijs.gg)
