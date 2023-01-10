@@ -34,15 +34,15 @@
 <div>
 
 ### Technologies
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,nodejs,react,nextjs,mui,tailwindcss,python,flask,sass,markdown&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,php,nodejs,ts,react,nextjs,mui,tailwindcss,python,flask,sass,markdown,git&theme=dark)](https://skills.thijs.gg)
   
 ### Databases
-[![My Skills](https://skills.thijs.gg/icons?i=mongodb,firebase&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=mongodb,firebase,mysql&theme=dark)](https://skills.thijs.gg)
 
 ### Tools used
-[![My Skills](https://skills.thijs.gg/icons?i=vscode,visualstudio,photoshop,heroku,git,github&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=vscode,visualstudio,photoshop,heroku,github&theme=dark)](https://skills.thijs.gg)
   
 ### Technologies Studying
-[![My Skills](https://skills.thijs.gg/icons?i=ts&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=laravel&theme=dark)](https://skills.thijs.gg)
 
 </div>
