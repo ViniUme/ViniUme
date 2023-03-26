@@ -12,7 +12,7 @@
   </a>
 
   <a href="https://www.instagram.com/viniciusumetsu210/" target="_blank">
-    <img src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
   
   <a href="https://t.me/ViniUme" target="_blank">
